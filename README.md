@@ -51,10 +51,9 @@ The program uses a **dictionary file** to map numbers to their corresponding wor
 This project was completed as part of the Piscine at 42 Berlin, under a strict 48-hour deadline.
 
 ### Meet the Team 👨‍💻👩‍💻
-- **Ali Qeblawi**: Focused on number conversion logic and recursive implementation.
-- **Felix Porzig**: Led the dictionary parsing and input validation modules.
-- **Mukhammadsidik**: Enhanced error handling and ensured memory optimization.
-
+- **Mukhammadsidik**:
+- **Felix Porzig**:
+- **Ali Qeblawi**:
 We worked tirelessly as a team, dividing tasks strategically to meet the challenge's demands. Collaboration and clear communication were key to our success, as we faced immense time pressure while maintaining code quality and functionality.
 
 ---
