@@ -11,9 +11,6 @@ Our program converts **numbers into words**, handling inputs of various sizes an
 The program uses a **dictionary file** to map numbers to their corresponding words (e.g., `1: one`, `10: ten`). It reads this dictionary, validates the input, and efficiently converts the number to its word representation using **recursion** and **group handling**.
 
 ---
-
-## 💻 Demo
-
 1. **Compile the Program**  
    Use the provided Makefile to compile the program:
    ```bash
